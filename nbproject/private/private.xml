@@ -3,23 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/streams/Type.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/methods_references/WeightApple.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/constructor_references/CostructorReferences.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/streams/DishesManager.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/composing_lambdas/Letter.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/methods_references/MethodsReferences.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/constructor_references/with_own_functional_interface/TriFunction.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/methods_references/WeightAppleUtils.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/composing_lambdas/ComposingLambdas.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/java8inaction/apple/AppleUtils.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/java8inaction/pretty_aple/PrettyApple.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/java8inaction/Java8InAction.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/constructor_references/with_own_functional_interface/Color.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/java8inaction/apple/Apple.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/streams/Dish.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/streams/Streams.java</file>
-            <file>file:/home/webprog26/rx_java/NewFolder/Java8InAction/src/java8inaction/apple/Color.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/Type.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/StreamsFromValues.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/StreamOfFile.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/Streams.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/practice/TransactionsManager.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/practice/Practice.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/practice/Transaction.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/numeric_streams/gen_numbers/NumbersGenStreams.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/DishesManager.java</file>
+            <file>file:/C:/Users/webpr/Documents/NetBeansProjects/Java8InAction/Java8InAction/src/streams/numeric_streams/NumericTransactionsManager.java</file>
         </group>
     </open-files>
 </project-private>

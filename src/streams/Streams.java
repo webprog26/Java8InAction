@@ -32,6 +32,8 @@ public class Streams {
 //        DishesManager.getCalories(menu).forEach(System.out::println);
 //        DishesManager.printAnyVegetarianDish(menu);
 //        DishesManager.printVegetarianDishLessThanCalories(menu, 200);
-          System.out.println(DishesManager.getCaloriesSum(menu));  
+//          System.out.println(DishesManager.getCaloriesSum(menu));  
+//          System.out.println(StreamsFromValues.getUppercaseStrings("Olya", "Ira", "Lena"));
+          System.out.println(StreamOfFile.getUniqueWordsCount());
     }
 }
