@@ -25,7 +25,13 @@ public class Streams {
                 new Dish("pizza", true, 550, Type.OTHER),
                 new Dish("prawns", false, 300, Type.FISH),
                 new Dish("salmon", false, 450, Type.FISH));
-        
-        System.out.println(DishesManager.getThreeCaloricDishNames(menu));
+
+//        System.out.println(DishesManager.getThreeCaloricDishNames(menu));
+//        System.out.println("Has vegetarian " + DishesManager.hasVegetarian(menu));
+//        System.out.println("Is healthy " + DishesManager.hasVegetarian(menu));
+//        DishesManager.getCalories(menu).forEach(System.out::println);
+//        DishesManager.printAnyVegetarianDish(menu);
+//        DishesManager.printVegetarianDishLessThanCalories(menu, 200);
+          System.out.println(DishesManager.getCaloriesSum(menu));  
     }
 }
